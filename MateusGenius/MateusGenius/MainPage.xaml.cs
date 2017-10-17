@@ -21,7 +21,7 @@ namespace MateusGenius
       SimonButton btnAzul = new SimonButton()
       {
         Id = 1,
-        BackgroundColor = Color.FromHex("#3f51b5"),
+        BackgroundColor = Color.FromHex("#3F51B5"),
         HorizontalOptions = LayoutOptions.FillAndExpand,
         VerticalOptions = LayoutOptions.FillAndExpand,
         Command = new Command(() =>
@@ -33,7 +33,7 @@ namespace MateusGenius
       SimonButton btnVermelho = new SimonButton()
       {
         Id = 2,
-        BackgroundColor = Color.FromHex("#f34336"),
+        BackgroundColor = Color.FromHex("#F34336"),
         HorizontalOptions = LayoutOptions.FillAndExpand,
         VerticalOptions = LayoutOptions.FillAndExpand,
         Command = new Command(() =>
@@ -56,7 +56,7 @@ namespace MateusGenius
       SimonButton btnAmarelo = new SimonButton()
       {
         Id = 4,
-        BackgroundColor = Color.FromHex("#fec007"),
+        BackgroundColor = Color.FromHex("#FEC007"),
         HorizontalOptions = LayoutOptions.FillAndExpand,
         VerticalOptions = LayoutOptions.FillAndExpand,
         Command = new Command(() =>
